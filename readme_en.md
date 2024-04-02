@@ -44,7 +44,7 @@ Community Edition includes the core functions of mini-programs digital applicati
 ## 🤔 What is FinClip Cloud?
 `FinClip` is a Mini Program container, regardless of whether it is a mobile app or a device such as a computer, TV, car host, etc., after integrating`FinClip`, you can quickly acquire the ability to run Mini Program.
 
-`FinClip` provides `Mini Program SDK` and `Mini Program management backend` with 100% independent intellectual property rights. Developers can deploy existing Mini Program migrations in `host application` to gain sufficient flexibility in Mini Program development and management experience.
+`FinClip` provides `Mini Program SDK` and `Mini Program management system` with 100% independent intellectual property rights. Developers can deploy existing Mini Program migrations in `host application` to gain sufficient flexibility in Mini Program development and management experience.
 
 `FinClip` is not only compatible with WeChat Mini Programs syntax, but also provides a full set of Mini Program development management suite. Developers do not need to learn new syntax and framework. Using FinClip, Mini Program management backend, Mini Program development document, FinClip can complete all the work from development testing to previewing deployment with low cost and high quality.
 
