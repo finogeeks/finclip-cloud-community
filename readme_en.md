@@ -21,10 +21,10 @@ Community Edition includes the core functions of mini-programs digital applicati
 
 <div align="center">
 
-<a href="#"><img src="https://img.shields.io/badge/%E4%B8%93%E5%B1%9E%E5%BC%80%E5%8F%91%E8%80%85-20000%2B-brightgreen"></a>
-<a href="#"><img src="https://img.shields.io/badge/%E5%B7%B2%E4%B8%8A%E6%9E%B6%E5%B0%8F%E7%A8%8B%E5%BA%8F-6000%2B-blue"></a>
-<a href="#"><img src="https://img.shields.io/badge/%E5%B7%B2%E9%9B%86%E6%88%90%E5%B0%8F%E7%A8%8B%E5%BA%8F%E5%BA%94%E7%94%A8-75%2B-yellow"></a>
-<a href="#"><img src="https://img.shields.io/badge/%E5%AE%9E%E9%99%85%E8%A6%86%E7%9B%96%E7%94%A8%E6%88%B7-2500%20%E4%B8%87%2B-orange"></a>
+<a href="#"><img src="https://img.shields.io/badge/Developers-20,000%2B-brightgreen"></a>
+<a href="#"><img src="https://img.shields.io/badge/Uploaded&nbsp;Mini&nbsp;Programs-6,000%2B-blue"></a>
+<a href="#"><img src="https://img.shields.io/badge/Apps&nbsp;with&nbsp;FinClip-75%2b-yellow"></a>
+<a href="#"><img src="https://img.shields.io/badge/Covered&nbsp;Users-25Million-orange"></a>
 
 <a href="https://www.zhihu.com/org/finchat"><img src="https://img.shields.io/badge/FinClip--lightgrey?logo=zhihu&style=social"></a>
 <a href="https://www.finclip.com/blog/"><img src="https://img.shields.io/badge/FinClip%20Blog--lightgrey?logo=ghost&style=social"></a>
